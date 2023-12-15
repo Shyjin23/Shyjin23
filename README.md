@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### I'm an individual passionate about cybersecurity, eager to learn & explore various aspects of the security domain.
 <!--
 **Shyjin23/Shyjin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
